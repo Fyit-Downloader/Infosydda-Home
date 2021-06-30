@@ -1,0 +1,138 @@
+{
+    "menu": {
+        "img": "img/team/fav.png"
+    },
+    "Header": {
+        "title": "Infosydda",
+        "paragraph": "Innovation Everywhere." 
+    },
+    "About": {
+        "paragraph":[
+            "Words of the Customer is Most Powerfull than Us, Reaching the world.\n", 
+            "       We provide the Best Quality Service to the Customer Infosydda Products has Reached World wide and Still onits peak.."
+        ],
+        "Why": [
+            "Customer service: You love the way they treat you. Employees are friendly, knowledgable, and quick to respond.",
+            "They are there to take care of you, and in turn, you take care of them.. by doing business with us."
+        ],
+        "Why2": [
+            "So we focus on our service to your business. Above all, we want your words too."
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-columns",
+            "name": "Website",
+            "text": "We Provide Services to the Website; Maintanence, Building Portfolio or Webpages."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "E-Commers",
+            "text": "E-Commers site for all kind of the Business."
+        },
+        {
+            "icon": "fa fa-laptop",
+            "name": "Personalized Software",
+            "text": "According to the Need of Your Business / Personal we will build the best product."
+        },
+        {
+            "icon": "fa fa-bitcoin",
+            "name": "Billing Software",
+            "text": "We Provide 3 Kind of Billing Software : Basic, Advanced and Premium Billing Software."
+        },
+        {
+            "icon": "fa fa-camera",
+            "name": "Proctoring",
+            "text": "We Provide the best and Unbeatable proctoring Service."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Digital Marketting",
+            "text": "We help your Business Products Advertising."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/ad.png",
+            "name": "Adhavan Traders",
+            "job": "Coimbatore"
+        },
+        {
+            "img": "img/team/dp.png",
+            "name": "DP Groups",
+            "job": "Coimbatore"
+        }, {
+            "img": "img/team/lucky.png",
+            "name": "Lucky Furnitures",
+            "job": "Coimbatore"
+        },
+        {
+            "img": "img/team/ozonerf.png",
+            "name": "Ozone Roofing & Engineering",
+            "job": "Kollam"
+        }
+    ],
+    "Contact": {
+        "address": "Narasimha naickan palayam, Coimbatore, Tamil Nadu",
+        "phone": "+91 6374 163 636",
+        "email": "contact@infosydda.com",
+        "facebook": "#",
+        "twitter": "#",
+        "youtube": "#",
+        "instagram": "https://www.instagram.com/infosydda",
+        "whatsapp": "https://chat.whatsapp.com/I2Agg1pWZXzFOFn87",
+        "telegram": "https://t.me/joinchat/iEr3Qzu_rzhiMzll"
+    },
+    "Features": [{
+            "icon": "fa fa-cloud-download",
+            "title": "Fyit Downloader",
+            "text": "Software Stack used to Download Youtube & FB Videos and WhatsApp Auto Meassage Scheduler."
+        },
+        {
+            "icon": "fa fa-video-camera",
+            "title": "SMRT Proctor",
+            "text": "Software for Online Examination to students or staffs with Live monitoring & Screen Sharing feature."
+        },
+        {
+            "icon": "fa fa-comments",
+            "title": "Chat Bot",
+            "text": "Ai Based Chatbot to interact with customers and others Using Robotic Process Automation (RPA)."
+        },
+        {
+            "icon": "fa fa-tasks",
+            "title": "Appointment Scheduler",
+            "text": "A remainder or a task yet to be done; an item on the todo list."
+        }
+    ]
+}
