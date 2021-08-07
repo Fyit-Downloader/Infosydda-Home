@@ -3,9 +3,9 @@ import React, { Component } from "react";
 export class Gallery extends Component {
   render() {
     return (
-      <div id="portfolio" className="text-center">
+      <div id="gallery" className="text-center">
         <div className="container">
-          <div className="section-title">
+          <div className="section-title"> <br /> <br />
             <h2>Gallery</h2>
             {/* <p>
               👻 amet, consectetur  duis sed
@@ -24,7 +24,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>I</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -45,7 +45,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>N</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -66,7 +66,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>F</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
@@ -87,7 +87,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>O</h4>
                       </div>
                       <img
                         src="img/portfolio/04-small.jpg"
@@ -108,7 +108,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>S</h4>
                       </div>
                       <img
                         src="img/portfolio/05-small.jpg"
@@ -129,7 +129,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>Y</h4>
                       </div>
                       <img
                         src="img/portfolio/06-small.jpg"
@@ -150,7 +150,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>D</h4>
                       </div>
                       <img
                         src="img/portfolio/07-small.jpg"
@@ -171,7 +171,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>D</h4>
                       </div>
                       <img
                         src="img/portfolio/08-small.jpg"
@@ -192,7 +192,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>👻</h4>
+                        <h4>A</h4>
                       </div>
                       <img
                         src="img/portfolio/09-small.jpg"

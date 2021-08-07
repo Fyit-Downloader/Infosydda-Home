@@ -3,9 +3,9 @@ import React, { Component } from "react";
 export class Team extends Component {
   render() {
     return (
-      <div id="team" className="text-center">
+      <div id="clients" className="text-center">
         <div className="container">
-          <div className="col-md-8 col-md-offset-2 section-title">
+          <div className="col-md-8 col-md-offset-2 section-title"> <br /> <br />
             <h2>Some of Our Clients</h2>
             {/* <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut nihil nam vitae quaerat cupiditate 

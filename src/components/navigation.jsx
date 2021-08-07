@@ -30,7 +30,7 @@ export class Navigation extends Component {
           >
             <ul className="nav navbar-nav navbar-right">
               <li>
-                <a href="#features" className="page-scroll">
+                <a href="#products" className="page-scroll">
                   Products
                 </a>
               </li>
@@ -45,7 +45,7 @@ export class Navigation extends Component {
                 </a>
               </li>
               <li>
-                <a href="#portfolio" className="page-scroll">
+                <a href="#gallery" className="page-scroll">
                   Gallery
                 </a>
               </li>
@@ -55,7 +55,7 @@ export class Navigation extends Component {
                 </a>
               </li> */}
               <li>
-                <a href="#team" className="page-scroll">
+                <a href="#clients" className="page-scroll">
                   Our Clients
                 </a>
               </li>

@@ -26,8 +26,8 @@
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "E-Commers",
-            "text": "E-Commers site for all kind of the Business."
+            "name": "E-Commerce",
+            "text": "E-Commerce site for all kind of the Business."
         },
         {
             "icon": "fa fa-laptop",
@@ -110,6 +110,7 @@
         "facebook": "#",
         "twitter": "#",
         "youtube": "#",
+        "slack": "#",
         "instagram": "https://www.instagram.com/infosydda",
         "whatsapp": "https://chat.whatsapp.com/I2Agg1pWZXzFOFn87",
         "telegram": "https://t.me/joinchat/iEr3Qzu_rzhiMzll"
