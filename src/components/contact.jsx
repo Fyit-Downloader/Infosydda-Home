@@ -128,10 +128,20 @@ export class Contact extends Component {
                 <div className="social">
                   <ul>
                     <li>
-                      <a href={this.props.data ? this.props.data.slack : "/"} target="_BLANK">
-                        <i className="fa fa-slack"></i>
+                      <a href={this.props.data ? this.props.data.twitter : "/"} target="_BLANK">
+                        <i className="fa fa-twitter"></i>
                       </a>
                     </li>
+                    <li>
+                      <a href={this.props.data ? this.props.data.facebook : "/"} target="_BLANK">
+                        <i className="fa fa-facebook"></i>
+                      </a>
+                    </li>
+                    {/* <li>
+                      <a href={this.props.data ? this.props.data.youtube : "/"} target="_BLANK">
+                        <i className="fa fa-youtube"></i>
+                      </a>
+                    </li> */}
                     <li>
                       <a href={this.props.data ? this.props.data.instagram : "/"} target="_BLANK">
                         <i className="fa fa-instagram"></i>
